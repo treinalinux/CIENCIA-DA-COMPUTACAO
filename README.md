@@ -1,1 +1,1 @@
-# CIENCIA-DA-COMPUTACAO
+# CIÊNCIA DA COMPUTAÇÃO na Faculdade Descomplica
