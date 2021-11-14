@@ -21,3 +21,33 @@ sdk current java
 ```
 
 **Fonte:** [sdkman](https://sdkman.io/)
+
+## Primeiro código em Java
+
+```bash
+
+# Criando o arquivo java: 
+
+vim Hello.java
+```
+
+Conteúdo do arquivo: 
+
+```java
+class Hello {  
+   public static void main(String args[]) {  
+      System.out.println("Hello Java");     
+   }  
+}
+```
+
+
+```bash
+
+# Compilando o arquivo java: 
+
+javac Hello.java
+
+# Executando o arquivo java compilado: 
+java Hello
+```
