@@ -1,0 +1,24 @@
+Algoritmo "SomaMedia"
+
+Var
+  nomeAlg: caracter
+  resultadoSoma: inteiro
+  resultadoMedia: real
+  resultadoMedia2: real
+
+Inicio
+  nomeAlg <- "Soma e Média"
+  resultadoSoma <-  6+6+6
+  resultadoMedia <- (6+6+6)/3
+
+  resultadoSoma <- 6+6+6
+  resultadoMedia2 <- resultadoSoma/3
+
+  Escreval("Soma e média dos números 6,6 e 6")
+  Escreval("Nome do Algoritmo: ", nomeAlg)
+  Escreval("Resultado da Soma: ", resultadoSoma)
+  Escreval("Resultado da Média: ", resultadoMedia)
+  Escreval("Resultado da Média usando a variável resultadoSoma : ")
+  Escreval(resultadoMedia2)
+
+Fimalgoritmo
