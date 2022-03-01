@@ -6,7 +6,7 @@ import java.io.PrintWriter;
 public class EscreveArquivos {
     public static void main(String[] args) throws IOException {
         Scanner scanner = new Scanner(System.in);
-        System.out.printf("Inoforme o numero de linhas do arquivo: ");
+        System.out.printf("Informe o número de linhas do arquivo: ");
         int numeroLinhas = scanner.nextInt();
 
         FileWriter arquivo = new FileWriter("teste.txt");
