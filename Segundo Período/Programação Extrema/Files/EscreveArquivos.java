@@ -3,7 +3,7 @@ import java.io.IOException;
 import java.io.FileWriter;
 import java.io.PrintWriter;
 
-public class Main {
+public class EscreveArquivos {
     public static void main(String[] args) throws IOException {
         Scanner scanner = new Scanner(System.in);
         System.out.printf("Inoforme o numero de linhas do arquivo: ");
